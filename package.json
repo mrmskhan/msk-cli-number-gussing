@@ -1,0 +1,20 @@
+{
+  "name": "msk-cli-number-gussing",
+  "version": "2.0.0",
+  "description": "CLI Base Number Gussing Game",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.16",
+    "msk-cli-number-gussing": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
